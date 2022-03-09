@@ -1,0 +1,18 @@
+{
+    "general": {
+        "token": "El token de tu bot",
+        "debug": false
+    },
+     "commands": [{
+            "command": "prefijoHola",
+            "action": "send_message",
+            "message": "Hola!"
+        },
+                   "presence": {
+        "enabled": true,
+        "type": "playing",
+        "text": "Uwu"
+       
+    }
+                  
+                  //Esta informacion fue sacada del npm https://www.npmjs.com/package/dos-easy.js 
